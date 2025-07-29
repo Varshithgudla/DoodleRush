@@ -2,7 +2,7 @@
 
 #  DoodleRush
 
-Skribblrs.io is a real-time, multiplayer web-based drawing and guessing game — a clone of the popular game [skribbl.io](https://skribbl.io). Players take turns drawing prompts while others try to guess the correct word to score points.
+DoodleRush is a real-time, multiplayer web-based drawing and guessing game . Players take turns drawing prompts while others try to guess the correct word to score points.
 
 ---
 
